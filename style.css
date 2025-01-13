@@ -20,6 +20,10 @@ header {
     margin-right: 8px;
 }
 
+video {
+        width: 100%;
+        height: auto;
+    }
 
 @media (max-width: 600px) {
     .svg-icon {
