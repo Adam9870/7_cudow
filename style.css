@@ -182,6 +182,14 @@ button:hover {
         height: 400px;
     }
 
+        .gallery {
+        width: 95%;
+    }
+
+    .ankieta {
+        max-width: 100%;
+    }
+    
     form select, form textarea, form input {
         font-size: 15px;
         padding: 10px;
